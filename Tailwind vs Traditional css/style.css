@@ -1,7 +1,13 @@
+body{
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+}
 .chat-notification {
     display: flex;
     align-items: center;
-    max-width: 24rem;
+    width: 24rem;
     margin: 0 auto;
     padding: 1.5rem;
     border-radius: 0.5rem;
@@ -12,8 +18,8 @@
     flex-shrink: 0;
   }
   .chat-notification-logo {
-    height: 8rem;
-    width: 8rem;
+    height: 6rem;
+    width: 6rem;
     border: 1px solid white;
     border-radius: 50%;
     -webkit-border-radius: 50%;

@@ -33,10 +33,10 @@ height: 100vh;
   .chat-notification-title {
     color: white;
     font-size: 1.25rem;
-    line-height: 1.25;
+    line-height: 1;
   }
   .chat-notification-message {
     color: #718096;
     font-size: 1rem;
-    line-height: 1.5;
+    line-height: 1;
   }
